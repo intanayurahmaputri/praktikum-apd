@@ -1,4 +1,4 @@
-print('Hello kelas B')
+print('Hello kelas B1')
 
 variabel = 2 #integer
 koma= 3.4 #float
