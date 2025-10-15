@@ -44,3 +44,17 @@ print("tambah")
 
 
 
+# n = int(input("n="))
+
+# for i in range(1,n+1):
+#     for j in range (1, i+1):
+#         print(i,end="")
+#     print("=")
+
+# A1=(2, 3, 1)
+# A2=(4, 6, 8)
+# B1=(3, 6, 8)
+# B2=(2, 7, 9)
+
+# C=
+# print(C)
