@@ -79,7 +79,7 @@ def mainMenu():
 
         elif pilihan == '1':
             clearScreen()
-            print("Silakan login.\n")
+            print("Silakan masuk ke akun Anda.\n")
             usn = input("Masukkan username: ")
             pw = input("Masukkan password: ")
 
